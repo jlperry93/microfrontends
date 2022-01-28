@@ -3,7 +3,7 @@ import React from "react";
 import MarketingApp from "./components/MarketingApp";
 
 export default () => {
-  console.log('kick off container build');
+  console.log('trigger container build');
   return (
     <div>
       <h1>Hi there!</h1>
